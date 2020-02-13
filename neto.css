@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'DINBold';
+  src: url('DINBold.ttf');
+}
+
+@font-face {
+  font-family: 'DINPro-Black';
+  src: url('DINPro-Black_13933.ttf');
+}
+
+@font-face {
+  font-family: 'DINPro-Bold';
+  src: url('DINPro-Bold_13934.ttf');
+}
+
+@font-face {
+  font-family: 'DINPro-Light';
+  src: url('DINPro-Light_13935.ttf');
+}
+
+@font-face {
+  font-family: 'DINPro-Medium';
+  src: url('DINPro-Medium_13936.ttf');
+}
+
+button {
+    background-color: #05C3DE;
+    border-radius: 4px;
+    color: white;
+    font-family: 'DINPro-Medium';
+    font-size: 14px;
+    font-weight: 700;
+    height: 56px;
+    letter-spacing: 2px; 
+    line-height: 16px;
+    padding: 20px 30px;
+    text-align: center;
+}
